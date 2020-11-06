@@ -87,7 +87,7 @@ There are various reasons why expected results maybe be missing that are related
 
 1. Verify the site's search visibility options at the following location: 
 
-     **<site_name>/_layouts/srchvis.aspx**
+     **<site_name>/_layouts/15/srchvis.aspx**
 
      Make sure that the Allow this web to appear in search results option is selected.
 
